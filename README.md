@@ -1,4 +1,4 @@
-<div align="center" style="display:flex; flex-direction: column; align-items: center;">
+<div align="center">
   
   ### ✨ Languages
   
