@@ -1,7 +1,14 @@
 <div align="left">
+
+<h3 align="left">hey there✨💫</h3>
+<h4 align="left">i'm taliya meyswara, a passionate frontend developer😼</h4>
+
+- 📚 informatics student at dian nuswantoro university
+- 🌈 currently learning `nextjs` and `swiftui`
+- 👩‍💻 my projects are available at [taliyameyswara.github.io](taliyameyswara.github.io)
+- 📫 reach me at **taliyameyswara@gmail.com**
   
-  ### ✨ Languages
-  
+<h3 align="left">📝 languages 📝 </h3>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
     <img width="12" />
@@ -18,7 +25,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   </div>
 
-  ### 🌸 Frameworks
+
+<h3 align="left">🌸 frameworks 🌸</h3>
   
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
