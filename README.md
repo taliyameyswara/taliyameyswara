@@ -1,4 +1,4 @@
-<h5 align="left">✨ Languages</h5>
+<h4 align="left">✨ Languages</h5>
 
 ###
 
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-<h5 align="left">🌸 Frameworks</h5>
+<h4 align="left">🌸 Frameworks</h5>
 
 ###
 
@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taliyameyswara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=taliyameyswara&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
