@@ -1,7 +1,7 @@
 <div align="left">
 
 <h3 align="left">hey there✨💫</h3>
-<h4 align="left">i'm taliya meyswara, a passionate frontend developer😼</h4>
+<h4 align="left">i'm taliya meyswara, a passionate frontend developer and ai/ml enthusiast😼</h4>
 
 - 📚 informatics student at dian nuswantoro university
 - 🌈 currently learning `nextjs` and `swiftui`
