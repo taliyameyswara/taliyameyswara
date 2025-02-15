@@ -5,7 +5,7 @@
 
 - 📚 informatics student at dian nuswantoro university
 - 🌈 currently learning `nextjs` and `swiftui`
-- 👩‍💻 my projects are available at [taliyameyswara.github.io](https://taliyameyswara.github.io/)
+- 👩‍💻 my projects are available at [taliyams.vercel.app](https://taliyams.vercel.app/)
 - 📫 reach me at **taliyameyswara@gmail.com**
   
 <h3 align="left">📝 languages 📝 </h3>
